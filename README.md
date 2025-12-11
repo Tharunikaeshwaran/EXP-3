@@ -57,5 +57,6 @@ Tabulation:2
  |2|ON|OFF|ON|
  |3|OFF|ON|ON|
  |4|OFF|OFF|OFF|
+ 
 RESULT:
 Thus the staircase wiring is connected and tested.
