@@ -48,7 +48,7 @@ Tabulation:1
  |1|ON|ON|OFF|
  |2|ON|OFF|OFF|
  |3|OFF|ON|OFF|
- |4|OFF|OFF|ON|
+ |4|OFF|OFF|ON
 Cross connection: CIRCUIT DIAGRAM:
 ![Uploading bee cir 2.jpg…]()
 
@@ -58,6 +58,6 @@ Tabulation:2
  |1|ON|ON|OFF|
  |2|ON|OFF|ON|
  |3|OFF|ON|ON|
- |4|OFF|OFF|OFF|
+ |4|OFF|OFF|OFF
 RESULT:
 Thus the staircase wiring is connected and tested.
