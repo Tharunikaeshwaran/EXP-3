@@ -44,11 +44,11 @@ Direct connection: CIRCUIT DIAGRAM:
 
 Tabulation:1
 |NODE|S1|S2|LAMP|
- |----:|----:|----:|----:|
- |1|ON|ON|OFF|
- |2|ON|OFF|OFF|
- |3|OFF|ON|OFF|
- |4|OFF|OFF|ON|
+|----:|----:|----:|----:|
+|1|ON|ON|OFF|
+|2|ON|OFF|OFF|
+|3|OFF|ON|OFF|
+|4|OFF|OFF|ON|
 Cross connection: CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-12-11 at 18 56 56_250fe09e](https://github.com/user-attachments/assets/9c8de753-359d-42e8-a220-006089fa173c)
 
