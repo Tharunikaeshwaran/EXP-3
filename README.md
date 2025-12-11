@@ -40,8 +40,7 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-![Uploading WhatsApp Image 2025-12-11 at 18.50.01_e5f431fc.jpg…]()
-
+![Uploading bee cir1.jpg…]()
 
 Tabulation:1
 |NODE|S1|S2|LAMP
@@ -51,7 +50,7 @@ Tabulation:1
  |3|OFF|ON|OFF|
  |4|OFF|OFF|ON|
 Cross connection: CIRCUIT DIAGRAM:
-![Uploading WhatsApp Image 2025-12-11 at 18.56.56_59577023.jpg…]()
+![Uploading bee cir 2.jpg…]()
 
 Tabulation:2
 |NODE|S1|S2|LAMP
