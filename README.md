@@ -50,6 +50,10 @@ Tabulation:1
 |2|ON|OFF|OFF|
 |3|OFF|ON|OFF|
 |4|OFF|OFF|ON|
+
+
+
+
 Cross connection: CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-12-11 at 18 56 56_3ad2f57c](https://github.com/user-attachments/assets/ee202421-7c5d-4fd4-a1af-8366413024f5)
 
